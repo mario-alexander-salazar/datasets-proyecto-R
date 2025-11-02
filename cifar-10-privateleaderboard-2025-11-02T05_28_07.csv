@@ -1,0 +1,233 @@
+﻿Rank,TeamId,TeamName,LastSubmissionDate,Score,SubmissionCount,TeamMemberUserNames
+1,72314,DeepCNet,"2014-10-17 19:31:23",0.95530,18,btgraham
+2,119844,jiki,"2014-10-15 02:19:18",0.94740,42,jiki103869
+3,119163,"Anil Thomas","2014-10-18 15:38:50",0.94300,3,anlthms
+4,121613,"Frank Sharp","2014-10-18 15:29:19",0.94190,13,fmsharp
+5,74600,nagadomi,"2014-10-18 17:42:49",0.94150,16,nagadomi
+6,118731,"Phil & Triskelion & Kazanova","2014-10-18 23:46:34",0.94120,107,"kazanova,philculliton,triskelion"
+7,121788,"Daniel Nouri","2014-10-18 22:27:07",0.93540,4,dnouri
+8,115138,Terry,"2014-10-10 19:24:23",0.93330,3,terrychenism
+9,119713,"Luca Massaron","2014-10-18 18:24:05",0.93140,21,lucamassaron
+10,93697,"Gil Levi","2014-10-18 16:25:15",0.93130,46,gillevi
+11,80629,Raillou,"2014-04-16 14:45:45",0.92610,7,marions
+12,119419,FXtest,"2014-10-06 20:06:50",0.92390,4,vadims
+13,112003,:-),"2014-08-29 08:44:04",0.92080,18,confirm
+14,118206,"John Judnich","2014-09-22 05:47:10",0.92030,1,johnjudnich
+15,121383,"Wang-Chou Lu","2014-10-18 23:27:34",0.91830,2,wangchoulu
+16,119819,lpigou,"2014-10-16 12:19:21",0.91810,2,lpigou
+17,84216,"Dmitriy Anisimov","2014-04-17 09:18:53",0.90670,2,dmitriyanisimov
+18,66546,fastml.com/dropconnect,"2013-12-22 15:08:58",0.90660,4,zygmunt
+19,102566,Jonathan,"2014-10-08 03:29:12",0.90620,13,jonnob
+20,65999,Yan,"2013-11-29 05:33:29",0.90530,13,zhengyan
+21,70181,lucktroy,"2014-05-02 07:42:58",0.90380,8,lucktroy
+22,100460,aslgestnizer,"2014-06-25 17:52:17",0.90140,25,visionnet
+23,98688,hyungwon,"2014-10-18 10:11:26",0.89930,6,"hyungwonchoi,kucho175699,yunhun"
+24,86987,Sam,"2014-04-12 09:15:28",0.89560,1,del=0f604952293e13b7
+25,102280,"Round of 16","2014-06-22 13:59:05",0.89450,11,"chosinhee,darktuna,mimi3204619,shinwoongsung,yucheollim"
+26,101049,"wenxin zhao","2014-06-17 23:54:06",0.89370,1,wenxinzhao
+27,102329,K_team1,"2014-06-22 13:20:36",0.89210,12,kteam1209406
+28,100950,"Sang-Jun Yea","2014-06-22 07:35:11",0.89010,24,sangjunyea
+29,63297,"Kyle Kastner","2013-12-09 02:50:17",0.88910,8,kastnerkyle
+30,67994,STNA,"2014-01-24 09:27:19",0.88860,19,"iamandreas,mhaulrich"
+31,75796,tund,"2014-02-11 16:55:14",0.88790,3,tudinhnguyen
+32,107070,Rafael,"2014-08-05 09:31:54",0.88230,7,potamitis
+33,75303,JJS,"2014-02-16 07:56:41",0.87950,2,sueiras
+34,70928,sdadas,"2014-01-07 05:09:51",0.87610,2,sdadas
+35,65438,YangJJ,"2013-12-01 04:01:41",0.87590,6,yangjj
+36,102406,DM-Team-11,"2014-06-22 14:47:59",0.87150,9,"dainjung,friedhelm,jihoyeo,jinkiahn1,seongchankim1,umair2"
+37,80816,"Eren Gölge","2014-03-20 12:39:10",0.87090,9,erengolge
+38,99057,"David Rubiano","2014-06-13 00:41:23",0.87090,18,davidrubiano
+39,94900,Miranda,"2014-05-20 01:37:22",0.86470,15,"miranda196999,pberlin"
+40,100813,Team1,"2014-07-25 05:50:24",0.86130,12,ssoonn129
+41,114075,Seafood,"2014-09-07 05:48:38",0.85730,1,seafood314
+42,62675,wqren,"2013-10-26 01:05:54",0.85720,4,weiqiangren
+43,64554,"Madison May","2013-11-10 00:52:22",0.84380,1,madisonmay
+44,71506,bug-fixer,"2014-01-14 06:10:15",0.83590,16,bugfixer
+45,87309,bruteforce,"2014-05-29 05:00:56",0.83160,6,"fatihsamet,toktay"
+46,87444,binghsu,"2014-04-15 07:21:54",0.82330,2,binghsu
+47,121748,"Pedro Rodriguez","2014-10-18 17:21:13",0.82260,6,pedrorodriguez
+48,103561,MiqVik,"2014-07-02 14:46:32",0.81220,1,"perellonieto,vikkamath"
+49,72048,"Antoine Bureau","2014-03-04 23:52:15",0.81210,1,antoinebureau
+50,115567,Mozaic,"2014-09-04 19:22:19",0.81210,4,cristiancanton
+51,104324,EE_UGR,"2014-08-27 16:31:54",0.79550,10,eeugr158907
+52,71366,"Konrad Banachewicz","2014-01-28 05:26:31",0.78560,9,konradb
+53,89066,"Ali Osman&Davut","2014-05-30 11:47:49",0.77810,19,"alos171048,davutpolat"
+54,64709,Maurits,"2013-11-11 22:13:43",0.77470,2,maurits
+55,74790,KenHanKun,"2014-02-06 02:27:46",0.77380,8,"hansong0,kensk8er,kunkpang"
+56,102658,KSE525-Team7,"2014-06-22 01:49:59",0.77380,1,yugangjae
+57,74758,"Kun Zhang","2014-05-23 04:34:42",0.77200,11,kunzhang
+58,86986,Epsilon,"2014-04-12 08:58:05",0.75620,1,epsilon172542
+59,73799,McAdams,"2014-02-07 23:31:37",0.75410,50,"abhishekaggarwal2,cooters,steve55"
+60,86276,"Senlie Zheng","2014-04-26 13:28:09",0.75260,22,senliezheng
+61,66132,"Qiwei Feng","2013-11-25 01:37:06",0.74560,2,qiweifeng
+62,117584,laserwolf,"2014-09-27 09:36:06",0.74500,2,vvarkey
+63,106006,"Andrew Grinenko","2014-09-06 09:03:03",0.72670,5,agrin88
+64,121819,kimill,"2014-10-17 12:56:59",0.71640,1,kimill
+65,68941,cuttlefish,"2013-12-13 03:58:25",0.71350,2,cuttlefish
+66,88294,12341234,"2014-10-12 17:03:57",0.70320,13,u1234x1234
+67,79258,"wang xin","2014-03-02 08:16:35",0.69450,2,wangxin0
+68,116482,"Marek Adamczyk","2014-09-27 11:16:24",0.68770,1,marekadamczyk
+69,119364,MrLynx,"2014-10-08 08:16:41",0.68530,19,mrlynx
+70,64353,"Rafael Rocha","2014-06-24 06:57:24",0.68280,4,rocharhs
+71,102595,KSE525-TEAM5,"2014-06-21 14:20:30",0.66720,2,ssahn172088
+72,81032,orbit,"2014-04-05 17:27:35",0.66370,2,"orhanbalci,uguru176256"
+73,116134,mungators,"2014-10-11 01:34:19",0.65810,13,"daniandphy,saharm,soheilmn"
+74,70615,"Bill Swift","2014-01-11 01:13:06",0.65360,4,billswift
+75,73857,"Cory Binnersley","2014-04-08 03:00:09",0.65250,6,binnersley
+76,66476,"Roman K","2013-11-24 18:25:05",0.64400,3,ggossamer
+77,63956,XterNalz,"2013-11-26 10:06:04",0.63770,2,del=72e989fa2f3ac6a4
+78,62899,"Martin Beyer","2013-11-10 07:15:29",0.63530,5,martinbeyer
+79,74201,D*Y*A,"2014-02-04 01:14:04",0.62000,15,"dgonzalez,ialong,yohhalley"
+80,80837,codebull,"2014-05-30 14:20:55",0.61900,9,"elifbozkaya,irensaltali"
+81,67780,mccann0011,"2013-12-07 03:22:52",0.61160,1,mccann0011
+82,100682,"Всеволод Ившин","2014-06-18 14:22:52",0.60870,1,user180972
+83,81078,"Alexandra Vieru","2014-03-28 17:18:25",0.60860,7,alexandravieru
+84,118132,"Ercüment İlhan","2014-09-23 09:42:35",0.60560,2,ercumentilhan
+85,72387,mkfaml,"2014-02-09 04:17:57",0.59560,9,"karolp0,manjukiruthika,mkfaml14"
+86,74035,JacChris,"2014-02-03 21:28:37",0.57820,16,"ggdasp,gya132371"
+87,72330,"Picq, Everett, & Ortega","2014-02-05 13:35:16",0.57000,25,"everett1,holgerius,maudpicq"
+88,100903,"Kirill Lunev","2014-09-10 05:34:54",0.56940,6,klunev
+89,74734,disgon,"2014-10-18 22:20:05",0.56580,9,"vbardiovsky,vojtechbardiovsky"
+90,69448,woobe,"2014-10-17 08:13:57",0.56370,9,jofaichow
+91,67708,Arnaud,"2013-12-29 13:50:02",0.55990,1,arnaud3
+92,70129,"Mohammad Ali Keyvanrad","2013-12-28 06:30:02",0.55890,3,keyvanrad
+93,76103,primaryobjects,"2014-02-15 04:40:04",0.55270,3,primaryobjects
+94,78727,KnightsOfNi,"2014-05-02 20:11:59",0.55250,12,"alex169440,ugurdemir"
+95,96738,DM_Purret_Vunk,"2014-06-01 15:37:50",0.54860,8,"imrepurret,mihkelvunk"
+96,90365,Angelus,"2014-05-04 21:19:50",0.54730,23,angelus1383
+97,113110,dascho,"2014-08-20 18:21:30",0.54170,7,dascho
+98,78166,ozcevik,"2014-03-18 13:32:05",0.53850,5,"mugeerel,yusufozcevik"
+99,79739,Çam,"2014-05-31 21:57:37",0.53230,16,"emec171440,ryorganci"
+100,68439,"佳彤 韩","2013-12-09 10:49:18",0.52790,2,user136798
+101,102698,dmteam3,"2014-06-22 14:19:30",0.52560,1,dmteam3
+102,100123,team3,"2014-06-22 14:56:27",0.52560,1,abcdefg
+103,120190,DECODED,"2014-10-13 12:59:39",0.51850,5,luckylwk
+104,100240,Classifiers,"2014-06-22 14:55:11",0.51810,13,mschae89
+105,102614,"[Deleted] 1bcb4ee6-450e-41ee-bc3f-850a7ea6f9ca","2014-06-22 14:44:16",0.51460,13,del=004951a4e6678538
+106,74657,xbits,"2014-02-01 22:28:26",0.50880,2,bakker
+107,102995,Assulan,"2014-06-26 10:57:43",0.50250,4,assulan
+108,68962,VIA.1314,"2013-12-12 13:06:49",0.50210,1,via1314
+109,118915,earino,"2014-10-01 00:34:09",0.50100,4,earino
+110,71883,"Basile Mayeur","2014-03-04 04:30:57",0.49670,3,baseberry
+111,93929,sociopath,"2014-05-11 21:07:54",0.49670,6,sociopath
+112,62517,"Jaco Cronje","2014-01-21 07:26:01",0.49190,3,jacocronje
+113,99594,DMMMMMM,"2014-06-21 13:01:31",0.48900,13,kaistdmlab
+114,115988,dst,"2014-09-10 12:23:49",0.48800,8,dstone
+115,76195,sawbinned,"2014-03-20 04:49:25",0.48650,1,sabeink
+116,68776,WhosYourDaddy,"2013-12-13 06:52:48",0.48080,3,tdlemonnh
+117,118512,mipt.isa,"2014-09-26 19:04:31",0.47830,3,kaggleford
+118,71789,"Romain Beaumont","2014-03-05 15:42:53",0.47750,10,romainbeaumont
+119,69472,"Fangyan Sun","2013-12-19 16:15:39",0.47510,3,fangyansun
+120,68495,hyenal,"2013-12-17 18:26:47",0.47400,6,hyenal
+121,100271,June,"2014-06-21 03:49:11",0.47010,20,june8207735
+122,67074,brownbear,"2013-11-29 20:20:25",0.46800,4,valayshah
+123,112858,"Song Lin","2014-08-19 23:51:12",0.46640,4,songlin
+124,102619,overthewall,"2014-06-22 17:01:38",0.46440,9,myungsuchae
+125,105806,haustre,"2014-07-15 15:14:09",0.46430,1,haustre
+126,63575,looschen,"2013-11-09 13:33:11",0.45660,3,looschen
+127,102387,"Team 4","2014-06-22 08:27:24",0.45300,4,minseoklee
+128,121628,tburm,"2014-10-17 03:45:54",0.45270,2,tburm106457
+129,69491,Coco,"2013-12-19 11:19:34",0.45060,1,corradina
+130,100496,"현영 김","2014-06-14 01:08:21",0.44720,1,khy208099
+131,77162,"[Deleted] bf051106-1358-4dd0-ab7f-71b921dcaaf7","2014-02-17 00:03:52",0.44680,1,del=3dc3c46aca129c38
+132,65399,Pena,"2013-11-25 16:38:49",0.43860,13,pena114696
+133,99385,KSE525_Team2,"2014-06-21 13:27:56",0.43760,8,"jerrywang1,kyosanghwang,meerahmyoung,user206638"
+134,100108,"Jerry Y","2014-06-20 19:17:18",0.43400,7,jerryy1
+135,102177,Jason,"2014-06-19 08:39:26",0.43400,6,jason59
+136,66289,"Timothy Man","2014-01-04 19:23:23",0.43140,11,timothyman
+137,99874,"SunKyung Oh","2014-06-18 18:13:56",0.42860,6,may206241
+138,86924,AirThread,"2014-05-08 13:18:18",0.41740,22,airthread
+139,111848,"Kornel Skałkowski","2014-08-12 19:40:52",0.41380,1,cornic777
+140,108682,"Jay Moore","2014-08-02 11:56:05",0.41230,2,jaymoore
+141,71395,Ivars,"2014-01-20 14:23:56",0.41010,9,ivarssilamikelis
+142,77976,ZettaHydrophile,"2014-04-19 02:02:00",0.40670,9,"elliot2,zettahydrophile"
+143,73931,UCL_AML1,"2014-02-05 23:12:31",0.40330,7,"amci157951,artiomvlasov,jonathanjameshowells"
+144,62506,pythonomic,"2013-11-05 08:11:04",0.39660,5,pythonomic
+145,74103,"Pass the All Cats Test Team","2014-04-30 02:50:39",0.39310,17,"salvatore,thomasladd"
+146,78564,Megatron,"2014-05-28 09:01:23",0.39190,15,"aysebilgegunduz,fikretaktas"
+147,114211,AbimBola,"2014-10-11 13:30:27",0.39020,5,"harish5,vinaysingri0"
+148,114142,Sky-Devilo,"2014-10-10 07:10:39",0.39020,17,"apratimutkarsh,arpitbbhayani,arpitbhayani"
+149,114146,neophile,"2014-10-11 10:55:16",0.38800,18,"neeljinwala,rishineo"
+150,120867,"John smith","2014-10-10 18:59:41",0.38640,5,johnsmith25
+151,86480,"Michel Blaauw","2014-10-15 07:12:35",0.38620,3,michelblaauw
+152,120970,DataBots,"2014-10-11 14:49:52",0.38350,3,"harishkv,vinaysingri"
+153,120733,PatternfinderS,"2014-10-11 13:34:34",0.38320,4,"priyanshu635,smadala"
+154,80404,"Emanuela Haller","2014-03-27 16:56:19",0.38180,9,ema171442
+155,68281,benjylynch,"2013-12-06 13:14:38",0.37470,1,benjylynch
+156,68239,OliverD,"2013-12-07 19:01:04",0.37280,2,oduerr
+157,69950,"Nicolas Castelli","2013-12-24 08:17:05",0.36650,4,nicolascastelli
+158,70738,apark,"2014-01-03 16:38:22",0.34740,2,apark31052
+159,112350,"Adianto Wibisono","2014-08-15 20:37:28",0.33450,1,adiantowibisono
+160,89356,"[Deleted] b87d3ffe-a31d-41f4-ba79-5a34ababa9f7","2014-05-25 13:59:06",0.32990,8,del=8a15b813afcad0f2
+161,88765,10percent,"2014-05-30 07:15:26",0.32130,4,ersinozturk
+162,118910,"Vladimir Milushev","2014-10-06 11:06:27",0.31330,6,vladimirmilushev
+163,75906,"[Deleted] 9366995d-f549-4ca9-816e-d2c5e324de37","2014-02-13 08:47:21",0.31160,2,del=e860f4ea61bfda56
+164,69482,DEICAPI,"2013-12-18 13:40:18",0.31100,2,deicapi
+165,68769,rasmus,"2013-12-14 21:57:11",0.30580,7,rahave
+166,90739,Lelocuh,"2014-04-28 05:57:12",0.30560,1,lelocuh
+167,102457,DM_Team10,"2014-06-22 13:00:24",0.29030,3,dongjuseo
+168,81914,LetzTag,"2014-03-19 20:25:30",0.28700,1,"chayan,geminigal"
+169,100428,신진호,"2014-06-13 13:59:11",0.26880,1,user207642
+170,70633,"Hiro Hosokawa","2014-01-01 06:26:35",0.26620,1,hhosokawa
+171,106019,Linny,"2014-07-16 17:32:10",0.25990,1,linny214669
+172,102585,Stephane,"2014-06-21 12:05:29",0.25900,1,stephane2
+173,88449,fschetin,"2014-05-14 21:06:02",0.25840,2,regicidex
+174,102651,"[Deleted] 0f423e89-7d94-46a0-b3ab-87fcee532094","2014-06-23 18:43:01",0.24960,2,del=75a62e51d2ea888f
+175,99521,"Charisma JO","2014-06-09 17:42:53",0.24540,2,charismajo
+176,91617," JunHee","2014-05-16 11:56:50",0.23910,6,junhee0
+177,112508,TXAMUCCS,"2014-09-21 04:45:32",0.23400,8,iclassify
+178,94514,"HOJEONG KWAK","2014-06-12 13:35:09",0.22930,9,hojeongkwak
+179,89007,"Regina Phalange","2014-05-29 05:39:56",0.21770,10,"ezgizumrutulas,iremislek,iremislek1"
+180,88529,blahblahblah,"2014-04-19 22:37:43",0.21450,9,blahblahblah1
+181,78218,Komodo,"2014-05-30 22:20:25",0.21370,11,"anita2,ekaterina1"
+182,72204,Mega2x,"2014-03-15 11:12:55",0.18760,3,yasinmasoumi
+183,111466,dangermax,"2014-08-10 11:29:30",0.17720,1,dangermax
+184,118324,jsheppard,"2014-09-22 16:41:36",0.17270,1,jsheppard
+185,111294,"Nagender Vasireddy","2014-08-23 09:51:51",0.17070,1,nagendervasireddy
+186,71633,"士川 邓","2014-01-13 23:30:06",0.14370,10,shichuandeng
+187,69512,"xuan wu","2014-01-13 18:00:18",0.13090,5,xuanwu1
+188,110869,"Louis Lowenbrau","2014-08-16 00:52:25",0.12940,4,louislowenbrau
+189,80819,JumpNotEqual,"2014-05-30 19:17:31",0.12260,27,"mineysm,segmenm"
+190,79057,typeIIerror,"2014-05-13 20:02:11",0.12250,2,"del=d440f9f1f320d496,sarioglu"
+191,118727,Vaishu,"2014-09-26 06:18:05",0.11790,2,vaishu1
+192,62497,"Robin East","2014-09-16 20:32:25",0.11060,6,robineast
+193,97383,amelie,"2014-05-30 19:08:58",0.11040,1,amelie1
+194,86566,9811107,"2014-09-16 04:19:16",0.10750,32,del=520aa824df09e7b5
+195,120669,DataFish,"2014-10-10 17:51:11",0.10650,6,datafish1
+196,81557,"Georgiana Scarlat","2014-03-27 22:58:08",0.10510,9,georgianascarlat
+197,102615,hmmmmmmm,"2014-06-22 13:12:22",0.10470,11,juyeongcolinlee
+198,63655,prof_data,"2013-11-03 02:57:39",0.10420,1,seemslegit
+199,78250,benibilme,"2014-04-17 20:18:40",0.10330,2,benibilme
+200,90669,mtshadow,"2014-04-30 07:04:26",0.10330,4,mtshadow
+201,102483,abcdz,"2014-06-21 11:25:05",0.10280,5,abcdz209602
+202,105228,PseudoAnalytics,"2014-07-21 17:03:38",0.10260,2,gmward
+203,74857,Orange,"2014-04-28 14:44:11",0.10180,2,"fasw109221,gregoryclark"
+204,107284,"Flyers (Jyoti_Gupta and Pradip_Das)","2014-08-06 04:51:03",0.10160,1,"jyotigupta0,pradipdas"
+205,99187,xiao,"2014-10-08 10:52:13",0.10080,4,xiao3176202
+206,113608,"Hamidreza Mohammadi","2014-08-20 23:11:37",0.10060,4,shamid
+207,78919,tembel_hayvan,"2014-04-20 20:02:06",0.10020,3,"cemiledilerozdemir,melodidenizozturk"
+208,102453,Laftworld,"2014-06-21 08:00:45",0.10020,3,laftworld
+209,108589,"Leonardo Piñeyro","2014-07-30 16:42:06",0.10010,2,leopiney
+0,62084,"All cats benchmark","2013-10-18 21:23:23",0.10000,1,wcukierski
+210,62413,Polemarch,"2013-10-22 00:23:08",0.10000,1,polemarch
+211,63164,"Young Kim","2013-10-29 14:41:38",0.10000,2,lukeskywalker
+212,63476,"Francisco Zamora-Martinez","2013-10-31 16:10:11",0.10000,1,pakozm
+213,63622,Diddi,"2013-11-02 06:57:52",0.10000,1,diddi101699
+214,66674,"Sifar Mogwai","2013-11-25 19:47:58",0.10000,1,slothouber
+215,68442,EgyFirst,"2013-12-08 02:26:18",0.10000,1,egyfirst
+216,70076,"Ravi Chandibhamar","2013-12-25 13:52:11",0.10000,1,company
+217,70605,"Arul A P","2013-12-31 19:15:04",0.10000,1,arulap
+218,71302,"Mania Yang","2014-01-09 16:58:14",0.10000,1,yangyanzhan
+219,78200,ikretus,"2014-02-23 17:04:45",0.10000,1,ikretus
+220,74215,"Jeremy Samama","2014-03-04 13:19:30",0.10000,1,jeremysamama
+221,78545,"Bharat Mukkala","2014-04-05 08:49:40",0.10000,1,bharatmukkala
+222,95771,"Vikram Jha","2014-05-21 11:50:00",0.10000,1,invinciblejha
+223,105633,"Rafael C.P.","2014-07-14 07:55:06",0.10000,1,rcpinto
+224,117164,BigT,"2014-09-15 04:18:01",0.10000,1,tvural
+225,117903,khomenko,"2014-09-19 14:14:39",0.10000,1,khomenko83
+226,119161,nolex,"2014-09-30 05:29:30",0.10000,1,nolex240999
+227,119654,Tortoise,"2014-10-02 08:54:09",0.10000,1,chandrasen
+228,121282,tharunniranjan,"2014-10-13 18:29:26",0.10000,1,tharunniranjan
+229,117051,"Guru Gorantla","2014-10-15 18:46:06",0.10000,4,ggorantla
+230,103312,"Željko Kraljević","2014-06-26 01:09:03",0.09910,2,del=ca72b9c33cbdf320
+231,112516,"Michael Davis","2014-08-16 21:30:17",0.09820,1,vcdimension
